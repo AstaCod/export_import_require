@@ -11,3 +11,4 @@ console.log(div(5,7))
 console.log(extract(5,7));
 console.log(upper('abc'))
 console.log(mult(5,7));
+// ibihbib
